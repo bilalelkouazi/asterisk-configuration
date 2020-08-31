@@ -1,2 +1,2 @@
 # asterisk-configuration
-Contains examples for configuring Speakup trunks on Asterisk
+Contains examples for configuring Speakup trunk or Passport on Asterisk
